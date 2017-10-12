@@ -5,7 +5,6 @@
  | Dasar connect to mysql
  | 
  | 
- | 
 */
 
 $database_host = 'localhost';
